@@ -6,11 +6,12 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "NSString.h"
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
+        printNSString();
     }
     return 0;
 }
+
