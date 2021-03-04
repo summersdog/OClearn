@@ -6,5 +6,5 @@
   用法：
     1.占位符用法等都一样；
 3.NSString，更好用的String，在OC程序中，前缀带有@符号的即为OC风格字符串，类型为NSString；
-4.
+4.learn
 
